@@ -1,0 +1,13 @@
+.test{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.outer{
+  height:900px;
+
+}
+.icon{
+      align-items: center;
+}
